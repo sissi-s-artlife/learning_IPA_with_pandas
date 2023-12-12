@@ -1,32 +1,29 @@
-IPA Symbol Checker
+# IPA Symbol Checker
 
-Introduction
+## Introduction
+The IPA Symbol Checker is a handy tool for linguists, language enthusiasts, and students, offering a straightforward method to explore the International Phonetic Alphabet (IPA). This project leverages Python and Pandas, making it a blend of linguistic insight and technical functionality.
 
-The IPA Symbol Checker is a tool designed for linguists, language enthusiasts, and students, providing an easy way to explore the International Phonetic Alphabet (IPA). This project is built in Python and uses the Pandas library, combining linguistic knowledge with technical convenience.
+## About the IPA
+The International Phonetic Alphabet (IPA) is a cornerstone for those studying or working with languages, providing a universal system for phonetic notation. This tool assists users in connecting symbols with their corresponding sounds, enriching their phonetic understanding.
 
-About the IPA
+## Key Features
+- **IPA Symbol Lookup**: Effortlessly find the description of an IPA symbol.
+- **Sound Description Lookup**: Easily retrieve the IPA symbol linked to a given sound description.
+- **Interactive Session**: Conduct multiple queries in one session, courtesy of the looping feature.
 
-The International Phonetic Alphabet (IPA) is essential for anyone studying or working with language. It's a universally recognized system for phonetic notation, representing the sounds of spoken languages. This tool helps users connect symbols with sounds, enhancing their understanding of phonetics.
+## Prerequisites
+- **Python**: The core programming language of this project.
+- **Pandas**: A Python library used for efficient data manipulation and analysis.
 
-Key Features
+These tools should be installed on your machine to utilize the IPA Symbol Checker effectively.
 
-IPA Symbol Lookup: Quickly find the description of an IPA symbol.
-Sound Description Lookup: Retrieve the IPA symbol associated with a sound description.
-Interactive Session: Multiple queries can be made in a single session, thanks to the looping functionality.
-Prerequisites
+## Usage
+Simply run the script within your Python environment. The program will prompt you through a series of choices, allowing you to search by IPA symbol or sound description. After inputting your query, it displays the relevant information. You have the option to continue with more queries or exit the program.
 
-Python: The programming language used to develop this project.
-Pandas: A Python library for data manipulation and analysis.
-Ensure you have these tools installed to run the IPA Symbol Checker effectively.
+## Contribution
+We welcome your contributions! If you have suggestions for enhancements or wish to expand the project's scope, your input would be greatly valued. Your expertise in linguistics, programming, or both, can significantly enrich this tool.
 
-Usage
-
-Run the script in your Python environment. The program will guide you through a series of prompts, allowing you to choose between searching by IPA symbol or sound description. After receiving your input, it will display the corresponding information. You can continue to make queries or exit the program as needed.
-
-Contribution
-
-Contributions are welcome! If you have ideas for improvement or want to extend the project's capabilities, feel free to contribute. Your expertise, whether in linguistics, programming, or both, can greatly enhance this tool.
-
-Educational Note
-
-This tool serves as an educational resource and a quick reference for IPA symbols and sounds. For detailed and comprehensive studies, please refer to authoritative linguistic resources and the official IPA chart.
+## Educational Note
+This application is intended as an educational resource and a quick reference guide for IPA symbols and sounds. For a more detailed and comprehensive study, authoritative linguistic resources and the official IPA chart should be consulted.
+check this for more information about IPA:
+https://www.internationalphoneticassociation.org/content/full-ipa-chart
